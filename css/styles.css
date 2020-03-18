@@ -8,3 +8,9 @@ img {
   width: 300px;
   float: left;
 }
+
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: red;
+}
